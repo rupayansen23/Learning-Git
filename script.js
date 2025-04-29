@@ -12,3 +12,6 @@ const upi = "integrated upi also";
 console.log(upi);
 
 console.log("letest update");
+
+//i am fixing bug
+console.log("bug fixed");
